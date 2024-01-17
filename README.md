@@ -1,7 +1,7 @@
 <h3 align="center">
     <div>
         <img src="assets/animated-flame-01.gif" height="50" align="left" width="1.75%"/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Rapha;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Larry;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
         <img src="assets/animated-flame-01.gif" height="50" align="right" width="1.75%"/>
     <div/>
     <img src="assets/borderseparator.gif"/>
@@ -86,7 +86,7 @@
 
 <br/>
 
-<details open>
+<!-- <details open> -->
     <summary>
         <b>📫 Contact.</b>
         <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
@@ -175,11 +175,11 @@
 
 <br>
 
-<div>
+<!-- <div>
     <a href="https://buymeacoffee.com/mgcodeur">
         <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mgcodeur&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"/>
     </a>
-</div>
+</div> -->
 
 <div>
     <img src="https://visitcount.itsvg.in/api?id=mgcodeur&icon=0&color=1"/>
