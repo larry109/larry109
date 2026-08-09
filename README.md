@@ -1,36 +1,74 @@
-<h3 align="center">
-    <div>
-        <img src="assets/animated-flame-01.gif" height="50" align="left" width="1.75%"/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Larry;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
-        <img src="assets/animated-flame-01.gif" height="50" align="right" width="1.75%"/>
-    <div/>
-    <img src="assets/borderseparator.gif"/>
-</h3>
+# Larry Ratianarivo
 
-<br/>
+**Full-stack engineer — Laravel · Vue / Nuxt · TypeScript**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mgcodeur/mgcodeur/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+I build and maintain production web applications end to end: domain modelling and API design,
+front-end architecture, then the boring-but-decisive part — migrations, CI, Docker images,
+monitoring and the release process that keeps all of it shippable on a Friday afternoon.
 
-<br/>
-<br/>
+Most of my work is on long-lived business applications where the hard problems are data
+consistency, backward-compatible migrations and keeping a large codebase changeable by a team,
+not picking a new framework.
 
-<details open>
-    <summary align="left">
-        <b align="center">🔥 Skills.</b>
-        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
-    </summary>
-    <img src="assets/borderseparator.gif"/>
-    <br/>
-    <br/>
-    <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
-    </div>
-</details>
+<!-- FILL: remplace la ligne ci-dessous par ton poste actuel, ex :
+     Currently backend/full-stack engineer at <entreprise>, on a Laravel + Vue platform serving <N> users. -->
 
-<br>
+📍 Madagascar · Remote-friendly · Open to senior full-stack roles and selected freelance work.
+
+---
+
+## What I work with
+
+| | |
+|---|---|
+| **Daily** | PHP 8 / Laravel · Vue 3 / Nuxt · TypeScript · MySQL · PostgreSQL · Docker |
+| **Regular** | Node.js / Express · REST & GraphQL APIs · Redis · Tailwind · GitHub Actions & GitLab CI · Nginx |
+| **Occasional** | React / Next.js · Python · Flutter · AWS |
+
+I keep this list short on purpose — it is what I would be comfortable being interviewed on,
+not everything I have installed once.
+
+---
+
+## Selected work
+
+**E-commerce platform** — Laravel · Blade · Vue · Docker
+Catalogue, cart and order lifecycle on a single Laravel codebase, containerised for reproducible
+development and deployment.
+<!-- FILL (important) : 2 lignes sur le problème technique le plus dur que tu as résolu là-dedans
+     + 1 chiffre concret (commandes/mois, produits, temps de réponse, taille de l'équipe). -->
+
+**Self-hosted media pipeline** — TypeScript · Vue 3 · Docker
+Download orchestration and library management, with a Vue front-end for monitoring.
+<!-- FILL (important) : ce qui cassait en production et comment tu l'as rendu résilient
+     (retries ? file d'attente ? rate limiting ?). C'est exactement ce qui distingue senior de junior. -->
+
+**GitHub Merge Helper** — TypeScript
+Internal tooling that automates a repetitive multi-repository merge and release routine.
+Written because doing it by hand was where the mistakes came from.
+
+**[GENRISK](https://github.com/larry109/GENRISK)** — Python
+Cancer-risk analysis over genetic sequence data, with a desktop interface for non-technical users.
+<!-- FILL (urgent) : le README de GENRISK ne contient que son titre. C'est le SEUL repo public
+     que tu as — un recruteur cliquera dessus. Écris-le, ou retire ce lien. -->
 
 
+<!-- FILL: quand 2–3 repos sont nettoyés et rendus publics, transforme les titres ci-dessus en liens.
+     Un lien cliquable vaut dix adjectifs. -->
+
+---
+
+## How I work
+
+- **Ship small, ship often.** Short-lived branches, conventional commits, reviewable diffs.
+- **Migrations are a first-class feature.** Reversible, tested against a copy of production data.
+- **Test what breaks.** Feature tests on the money paths, not a coverage percentage to brag about.
+- **Docker everywhere.** If it only runs on my machine, it is not finished.
+- **Boring by default.** New dependency only when the cost of maintaining it is smaller than
+  writing it, and I write down why.
+
+---
+
+## Reach me
+
+[Website](https://larrydevops.win/) · [LinkedIn](https://www.linkedin.com/in/larry-ratianarivo-10527) · dev@xacts.io
