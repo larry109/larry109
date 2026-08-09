@@ -71,4 +71,6 @@ Cancer-risk analysis over genetic sequence data, with a desktop interface for no
 
 ## Reach me
 
-[Website](https://larrydevops.win/) · [LinkedIn](https://www.linkedin.com/in/larry-ratianarivo-10527) · dev@xacts.io
+[Website](https://larrydevops.win/) · [LinkedIn](https://www.linkedin.com/in/larry-ratianarivo-10527)
+<!-- FILL : ajoute une adresse mail PERSONNELLE ici si tu veux être contactable directement. -->
+
